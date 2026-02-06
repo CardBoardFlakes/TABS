@@ -1,0 +1,30 @@
+{
+  "name": "tabsa",
+  "version": "1.0.0",
+  "description": "A tool dedicated to managing units and factions within the game TABS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Blake W",
+  "license": "CC-BY-NC-SA-4.0",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.22.1",
+    "sqlite3": "^5.1.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "homepage": "http://localhost:5000/index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TempeHS/NodeJS_PWA_Programming_For_The_Web_Task_Template/issues"
+  }
+}

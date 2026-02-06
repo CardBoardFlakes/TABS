@@ -1,0 +1,30 @@
+[
+  {
+    "extID": 1,
+    "name": "The Wobbly West",
+    "musicfile": "/audio/TheWobblyWest.mp3",
+    "type": "Placement",
+    "image": "/images/BG1.jpg"
+  },
+  {
+    "extID": 2,
+    "name": "The Kings Ballard",
+    "musicfile": "audio\\TheKingsBalladTABS1.mp3",
+    "type": "Placement",
+    "image": null
+  },
+  {
+    "extID": 3,
+    "name": "Into the Sunset",
+    "musicfile": "audio\\Into the Sunset.mp3",
+    "type": "Battle",
+    "image": null
+  },
+  {
+    "extID": 4,
+    "name": "Battle March of the Wobblers",
+    "musicfile": "audio\\Battle March of the Wobblers.mp3",
+    "type": "Battle",
+    "image": null
+  }
+]

@@ -1,0 +1,4 @@
+public/css
+public/icons
+public/images
+public/js

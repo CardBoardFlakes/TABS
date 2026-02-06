@@ -1,0 +1,50 @@
+[
+{
+"extID":1,
+"name":"Steam",
+"hyperlink":"https://store.steampowered.com/app/508440/Totally_Accurate_Battle_Simulator/",
+"about":"Visit the game on Steam",
+"image":"https://store.akamai.steamstatic.com/public/shared/images/responsive/steam_share_image.jpg",
+"language":"undefined"
+},
+{
+"extID":2,
+"name":"Landfall",
+"hyperlink":"https://landfall.se/totally-accurate-battle-simulator",
+"about":"Visit the official TABS website",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUmfuartX4gdqN3890p9zAXU_DAa8EXRRsyA&s",
+"language":"undefined"
+},
+{
+"extID":3,
+"name":"Epic Games",
+"hyperlink":"https://store.epicgames.com/en-US/p/totally-accurate-battle-simulator",
+"about":"Visit the game via Epic Games",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20oQU-TjfpVM2r5LfayIceKR8Xw2avDOGww&s",
+"language":"undefined"
+},
+{
+"extID":4,
+"name":"XBox",
+"hyperlink":"https://www.xbox.com/en-US/games/store/totally-accurate-battle-simulator/9pc4rwp34m2d",
+"about":"Now included with gamepass",
+"image":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/2048px-Xbox_one_logo.svg.png",
+"language":"undefined"
+},
+{
+"extID":5,
+"name":"Playstation",
+"hyperlink":"https://www.playstation.com/en-au/games/totally-accurate-battle-simulator/",
+"about":"Visit the game on Playstation",
+"image":"https://i.pinimg.com/736x/ff/e1/8b/ffe18bc07f4987eed129481171683dad.jpg",
+"language":"undefined"
+},
+{
+"extID":6,
+"name":"Nintendo",
+"hyperlink":"https://www.nintendo.com/us/store/products/totally-accurate-battle-simulator-switch/",
+"about":"Visit the game on the Nintendo shop",
+"image":"https://mir-s3-cdn-cf.behance.net/project_modules/1400/3524ba70148279.5e9e1a288e349.png",
+"language":"undefined"
+}
+]
